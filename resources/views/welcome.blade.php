@@ -36,7 +36,7 @@
 <body>
 <div class="container">
     <div class="content">
-        <div class="title">Hello ZYL ! 2020 !- by Pp</div>
+        <div class="title">Hello Z !- by Pp</div>
     </div>
 </div>
 </body>
